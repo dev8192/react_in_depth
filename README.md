@@ -1,0 +1,1 @@
+"React in depth" is a set of exercises for students who want to get the understanding of how React actually works. No hype, no nonsense. Just pure technical info and lots of code snippets that can be run directly in your browser.
